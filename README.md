@@ -1,2 +1,2 @@
-# Important_Sql_Project_1
-My important SQL porject 
+# Java_Dev_Project_1
+My Software Engineering porject 
